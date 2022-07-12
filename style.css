@@ -77,6 +77,7 @@ a {
     border: 0px;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 900;
+    border-radius: 5px;
 
 }
 
@@ -134,12 +135,10 @@ img {
     border: 0;
    
 }
-.last-card,p1{
-
+.last-text{
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 1200;
     font-size: 20px;
-
 }
 .card-holder{
     display: flex;
@@ -147,11 +146,10 @@ img {
 }
 .bottom-button{
     background-color: #3882F6;
-    border: 2px solid white;
+    border: 0;
     border-radius: 3px;
     padding-left: 3px;
     padding-right: 3px;
-
 }
 footer{
     display: flex;
